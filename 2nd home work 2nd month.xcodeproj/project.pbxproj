@@ -8,6 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		D4658EAA29013DB1005BA1F0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4658EA929013DB1005BA1F0 /* main.swift */; };
+		D4658EB1290140C9005BA1F0 /* Worker.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4658EB0290140C9005BA1F0 /* Worker.swift */; };
+		D4658EB32901462E005BA1F0 /* Investor.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4658EB22901462E005BA1F0 /* Investor.swift */; };
+		D4658EB529014FBE005BA1F0 /* KudaibergenCarsStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4658EB429014FBE005BA1F0 /* KudaibergenCarsStore.swift */; };
+		D4658EB7290153E9005BA1F0 /* ClothingBoutique.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4658EB6290153E9005BA1F0 /* ClothingBoutique.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +29,10 @@
 /* Begin PBXFileReference section */
 		D4658EA629013DB1005BA1F0 /* 2nd home work 2nd month */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "2nd home work 2nd month"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4658EA929013DB1005BA1F0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D4658EB0290140C9005BA1F0 /* Worker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Worker.swift; sourceTree = "<group>"; };
+		D4658EB22901462E005BA1F0 /* Investor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Investor.swift; sourceTree = "<group>"; };
+		D4658EB429014FBE005BA1F0 /* KudaibergenCarsStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KudaibergenCarsStore.swift; sourceTree = "<group>"; };
+		D4658EB6290153E9005BA1F0 /* ClothingBoutique.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClothingBoutique.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +65,10 @@
 		D4658EA829013DB1005BA1F0 /* 2nd home work 2nd month */ = {
 			isa = PBXGroup;
 			children = (
+				D4658EB6290153E9005BA1F0 /* ClothingBoutique.swift */,
+				D4658EB429014FBE005BA1F0 /* KudaibergenCarsStore.swift */,
+				D4658EB22901462E005BA1F0 /* Investor.swift */,
+				D4658EB0290140C9005BA1F0 /* Worker.swift */,
 				D4658EA929013DB1005BA1F0 /* main.swift */,
 			);
 			path = "2nd home work 2nd month";
@@ -120,7 +132,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4658EB529014FBE005BA1F0 /* KudaibergenCarsStore.swift in Sources */,
 				D4658EAA29013DB1005BA1F0 /* main.swift in Sources */,
+				D4658EB32901462E005BA1F0 /* Investor.swift in Sources */,
+				D4658EB7290153E9005BA1F0 /* ClothingBoutique.swift in Sources */,
+				D4658EB1290140C9005BA1F0 /* Worker.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
